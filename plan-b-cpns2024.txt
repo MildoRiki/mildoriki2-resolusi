@@ -1,7 +1,10 @@
 - Belajar TIU
-    Sumber belajar dari TemanASN.com
-    Sumber belajar dari PINGLIE
+  * Sumber belajar dari TemanASN.com
+  * Sumber belajar dari PINGLIE
+    ^ Belajar permutasi
+    ^ Belajar figural
 - Belajar TWK dan TKP
-    Sumber belajar dari TemanASN.com
-    Sumber belajar dari AP
-- Belajar Bahasa Inggris
+  * Sumber belajar dari TemanASN.com
+  * Sumber belajar dari AP
+- Belajar TOEFL/TOEIC
+  * Sumber belajar Yanto Tanjung
